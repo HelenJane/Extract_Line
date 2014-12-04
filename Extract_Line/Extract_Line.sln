@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Extract_Line", "Extract_Line\Extract_Line.vcxproj", "{795C9617-622F-41DC-8D89-0CE6A79A5B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795C9617-622F-41DC-8D89-0CE6A79A5B73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{795C9617-622F-41DC-8D89-0CE6A79A5B73}.Debug|Win32.Build.0 = Debug|Win32
+		{795C9617-622F-41DC-8D89-0CE6A79A5B73}.Release|Win32.ActiveCfg = Release|Win32
+		{795C9617-622F-41DC-8D89-0CE6A79A5B73}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
